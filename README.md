@@ -10,16 +10,20 @@ the field of software testing, known for being a quick learner and adapting rapi
 ## Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br>
+![Playwright](https://img.shields.io/badge/playwright-%23A8E10C.svg?style=for-the-badge&logo=playwright&logoColor=white) <br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <br>
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) <br>
-![Agile]()
-
+![Manual Testing](https://img.shields.io/badge/manual%20testing-%23FF7F00.svg?style=for-the-badge&logo=robot&logoColor=white) <br>
+![Agile Methodology](https://img.shields.io/badge/agile-%230A0FFF.svg?style=for-the-badge&logo=agile&logoColor=white) <br>
+![UI Automation](https://img.shields.io/badge/UI%20Automation-%2300C853.svg?style=for-the-badge&logo=robot&logoColor=white) <br>
+![Java](https://img.shields.io/badge/Java-%23F8981D.svg?style=for-the-badge&logo=java&logoColor=white) <br>
+![Test Planning](https://img.shields.io/badge/test%20planning-%230A0FFF.svg?style=for-the-badge&logo=robot&logoColor=white)
 <!-- profiles -->
 ## Profiles
 [![Problem solving](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/respondtogarvit)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/garvit-vyas-6b930b150)
-[![GitHub]()]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/garvit-vyas-6b930b150)
+[![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GarvitVyas)
 <!--
 **GarvitVyas/GarvitVyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
