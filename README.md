@@ -2,8 +2,8 @@
 
 <!-- Introduction -->
 ## About me
-A Software Quality Assurance Engineer (Automation + Manual) with over 4 years of experience in
-the field of software testing, known for being a quick learner and adapting rapidly to new technologies and methodologies. Possesses a strong understanding of Software development life cycle and Software testing life cycle, along with excellent problem-solving skills that contribute to the overall improvement of software quality and user experience. Demonstrates effective communication skills, collaborating seamlessly with cross-functional teams to identify issues and ensure that product quality meets the highest standards. Driven by a strong willingness to learn, consistently staying updated with industry trends and best practices to deliver efficient and reliable testing solutions.
+A Software Quality Assurance Engineer (Automation + Manual) with over 4️⃣ years of experience in
+the field of software testing, known for being a quick learner and adapting rapidly to new technologies and methodologies. Possesses a strong understanding of Software development life cycle and Software testing life cycle, along with excellent problem-solving skills that contribute to the overall improvement of software quality and user experience. Demonstrates effective communication skills, collaborating seamlessly with cross-functional teams to identify issues and ensure that product quality meets the highest standards. Driven by a strong 💪 willingness to learn , consistently staying updated with industry trends and best practices to deliver efficient and reliable testing solutions.
 <!-- Introduction end here -->
 
 <!-- skills -->
