@@ -43,7 +43,8 @@ Demonstrates effective communication skills, collaborating seamlessly with cross
 2. Understand conflicts, embiguties and estimating efforts via story pointing
 3. Test planning, test case creation, execute test cases, and refactor existing test cases
 4. Regression testing on end of each sprint cycle
-5. Participate in scrum calls and bug bashes
+5. Analyse reports for failed tests
+6. Participate in scrum calls and bug bashes
    
 <hr>
 
