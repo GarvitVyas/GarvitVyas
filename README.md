@@ -23,7 +23,9 @@ Demonstrates effective communication skills, collaborating seamlessly with cross
 ![Agile Methodology](https://img.shields.io/badge/agile-%230A0FFF.svg?style=for-the-badge&logo=agile&logoColor=white) <br>
 ![UI Automation](https://img.shields.io/badge/UI%20Automation-%2300C853.svg?style=for-the-badge&logo=robot&logoColor=white) <br>
 ![Java](https://img.shields.io/badge/Java-%23F8981D.svg?style=for-the-badge&logo=java&logoColor=white) <br>
-![Test Planning](https://img.shields.io/badge/test%20planning-%230A0FFF.svg?style=for-the-badge&logo=robot&logoColor=white)
+![Test Planning](https://img.shields.io/badge/test%20planning-%230A0FFF.svg?style=for-the-badge&logo=robot&logoColor=white) <br>
+![Appium Testing](https://img.shields.io/badge/appium%20testing-%234DC3FF.svg?style=for-the-badge&logo=appium&logoColor=white)
+
 <!-- skills end -->
 
 <hr>
