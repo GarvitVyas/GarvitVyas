@@ -24,7 +24,8 @@ Demonstrates effective communication skills, collaborating seamlessly with cross
 ![UI Automation](https://img.shields.io/badge/UI%20Automation-%2300C853.svg?style=for-the-badge&logo=robot&logoColor=white) <br>
 ![Java](https://img.shields.io/badge/Java-%23F8981D.svg?style=for-the-badge&logo=java&logoColor=white) <br>
 ![Test Planning](https://img.shields.io/badge/test%20planning-%230A0FFF.svg?style=for-the-badge&logo=robot&logoColor=white) <br>
-![Appium Testing](https://img.shields.io/badge/appium%20testing-%234DC3FF.svg?style=for-the-badge&logo=appium&logoColor=white)
+![Appium Testing](https://img.shields.io/badge/appium%20testing-%234DC3FF.svg?style=for-the-badge&logo=appium&logoColor=white) <br>
+![WebdriverIO](https://img.shields.io/badge/webdriverio-%23EA5906.svg?style=for-the-badge&logo=webdriverio&logoColor=white)
 
 <!-- skills end -->
 
@@ -44,9 +45,10 @@ Demonstrates effective communication skills, collaborating seamlessly with cross
 1. Collabrate with Agile teams to understand requirements
 2. Understand conflicts, embiguties and estimating efforts via story pointing
 3. Test planning, test case creation, execute test cases, and refactor existing test cases
-4. Regression testing on end of each sprint cycle
-5. Analyse reports for failed tests
+4. Run regression pipeline's for regression testing on end of each sprint cycle
+5. Analyse reports for failed tests and fix script issues.
 6. Participate in scrum calls and bug bashes
+
    
 <hr>
 
