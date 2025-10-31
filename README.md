@@ -7,6 +7,11 @@ the field of software testing, known for being a quick learner and adapting rapi
 <details><summary>Read more about me </summary> 
 Demonstrates effective communication skills, collaborating seamlessly with cross-functional teams to identify issues and ensure that product quality meets the highest standards. Driven by a strong 💪 willingness to learn , consistently staying updated with industry trends and best practices to deliver efficient and reliable testing solutions.
 </details>
+
+## 💼 Work Domains
+![E-Commerce](https://img.shields.io/badge/e--commerce-%230A0FFF.svg?style=for-the-badge&logo=shoppingcart&logoColor=white) 
+![Healthcare](https://img.shields.io/badge/healthcare-%234CAF50.svg?style=for-the-badge&logo=medicalservices&logoColor=white)
+![Education](https://img.shields.io/badge/education-%23F4C430.svg?style=for-the-badge&logo=googleclassroom&logoColor=white)
 <!-- Introduction end here -->
 
 <hr>
@@ -25,7 +30,9 @@ Demonstrates effective communication skills, collaborating seamlessly with cross
 ![Java](https://img.shields.io/badge/Java-%23F8981D.svg?style=for-the-badge&logo=java&logoColor=white) <br>
 ![Test Planning](https://img.shields.io/badge/test%20planning-%230A0FFF.svg?style=for-the-badge&logo=robot&logoColor=white) <br>
 ![Appium Testing](https://img.shields.io/badge/appium%20testing-%234DC3FF.svg?style=for-the-badge&logo=appium&logoColor=white) <br>
-![WebdriverIO](https://img.shields.io/badge/webdriverio-%23EA5906.svg?style=for-the-badge&logo=webdriverio&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/webdriverio-%23EA5906.svg?style=for-the-badge&logo=webdriverio&logoColor=white) <br>
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%232C8EBB.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 <!-- skills end -->
 
